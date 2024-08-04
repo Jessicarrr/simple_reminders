@@ -1,0 +1,6 @@
+{
+  "appTitle": "simple_reminders",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
